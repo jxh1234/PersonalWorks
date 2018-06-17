@@ -5,7 +5,7 @@
 
 ### 这是我的个人作品，可以fork，但是仅仅用于学习交流用途，严禁一切商业、及面试用途
 
-### LICENSE GPL
+### LICENSE [GPL](https://github.com/Yangfan2016/PersonalWorks/blob/master/LICENSE)
 
 <img src="./work001/images/7.jpg/" width="200" height="auto" />
 
