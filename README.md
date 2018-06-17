@@ -1,8 +1,11 @@
 
 > PersonalWorks
 
-### This is my first personal works,welcome to visit and review !   look top ^^^^^^^
+### This is my first personal works,welcome to visit and review !
 
+### 这是我的个人作品，可以fork，但是仅仅用于学习交流用途，严禁一切商业、及面试用途
+
+### LICENSE GPL
 
 <img src="./work001/images/7.jpg/" width="200" height="auto" />
 
